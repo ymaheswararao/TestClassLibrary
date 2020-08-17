@@ -1,0 +1,9 @@
+C:\Users\kraji\source\repos\MaheshTestLibrary\MaheshTestLibrary\bin\Debug\netcoreapp3.1\MaheshTestLibrary.deps.json
+C:\Users\kraji\source\repos\MaheshTestLibrary\MaheshTestLibrary\bin\Debug\netcoreapp3.1\MaheshTestLibrary.dll
+C:\Users\kraji\source\repos\MaheshTestLibrary\MaheshTestLibrary\bin\Debug\netcoreapp3.1\MaheshTestLibrary.pdb
+C:\Users\kraji\source\repos\MaheshTestLibrary\MaheshTestLibrary\obj\Debug\netcoreapp3.1\MaheshTestLibrary.csprojAssemblyReference.cache
+C:\Users\kraji\source\repos\MaheshTestLibrary\MaheshTestLibrary\obj\Debug\netcoreapp3.1\MaheshTestLibrary.AssemblyInfoInputs.cache
+C:\Users\kraji\source\repos\MaheshTestLibrary\MaheshTestLibrary\obj\Debug\netcoreapp3.1\MaheshTestLibrary.AssemblyInfo.cs
+C:\Users\kraji\source\repos\MaheshTestLibrary\MaheshTestLibrary\obj\Debug\netcoreapp3.1\MaheshTestLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kraji\source\repos\MaheshTestLibrary\MaheshTestLibrary\obj\Debug\netcoreapp3.1\MaheshTestLibrary.dll
+C:\Users\kraji\source\repos\MaheshTestLibrary\MaheshTestLibrary\obj\Debug\netcoreapp3.1\MaheshTestLibrary.pdb
